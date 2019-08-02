@@ -1,50 +1,6 @@
-<p align="center">
-    <img src="https://images.gitee.com/uploads/images/2019/0723/193304_c69fcee7_620321.png" width="300">
-    <p align="center">
-        Based on SpringBoot2, Crown builds a rapidly developed web application scaffolding.
-        <br>      
-        <br>      
-        <span>
-            <span>
-                Crown官方交流群：223706133
-            </span>
-            <span>
-                <a target="_blank" href="https://shang.qq.com/wpa/qunwpa?idkey=180c0eb468ec425c7208f49f142e4057f3f83a2fdabfe07ccb4606a414cd6413">
-                <img border="0" src="https://images.gitee.com/uploads/images/2019/0723/193303_e324a876_620321.png" alt="Crown官方交流群" title="Crown官方交流群"></a>
-            </span>
-        </span>
-        <br>
-        <br>
-        <a href="https://spring.io/projects/spring-boot">
-        <img src="https://img.shields.io/badge/spring--boot-2.1.4.RELEASE-blue.svg" alt="spring-boot"></a>
-		<a href="https://travis-ci.org/Caratacus/Crown">
-		<img src="https://www.travis-ci.org/Caratacus/Crown.svg?branch=master"></a>
-		<a href="https://app.codacy.com/app/Caratacus/Crown?utm_source=github.com&utm_medium=referral&utm_content=Caratacus/Crown&utm_campaign=Badge_Grade_Dashboard">
-		<img src="https://api.codacy.com/project/badge/Grade/81a3765292f04b3cad7b7a548daf5953"></a>
-		<a href="https://codecov.io/gh/Caratacus/Crown">
-        <img src="https://codecov.io/gh/Caratacus/Crown/branch/master/graph/badge.svg"></a>
-		<a href="https://github.com/Caratacus/Crown">
-        <img src="https://tokei.rs/b1/github/Caratacus/Crown?category=lines"></a>
-		<a href="https://github.com/Caratacus/Crown">
-		<img src="https://img.shields.io/badge/JDK-1.8-green.svg" alt="JDK 1.8" title="JDK 1.8"></a>
-		<a href="https://mit-license.org">
-        <img src="https://img.shields.io/cocoapods/l/Alamofire.svg?style=flat"></a>
-    </p>
-</p>
-
 -----------------------------------------------------------------------------------------------
 
-> 本人作为**mybatis-plus核心开发**之一，编写了该项目以推广**mybatis-plus3.0**的使用
-
-> 参考本项目完全可以让你轻松玩转**mybatis-plus**最新版本（**持续更新**），故也称为教学版本
-
-> 除了基本使用，还有一些**进阶玩法**在项目中等待大家来发现
-
-> **文档中心** [https://caratacus.github.io](https://caratacus.github.io)
-
-> **体验地址** [http://crown.baomidou.com/login.html](http://crown.baomidou.com/login.html)
-
-> **Bootstrap版本（参考若依）** [https://github.com/Caratacus/Crown2](https://github.com/Caratacus/Crown2)
+> 本人是个菜鸡
 
 -----------------------------------------------------------------------------------------------
 ##### Feature :rocket:
@@ -113,18 +69,4 @@
 <br>
 ![resource.png](https://raw.githubusercontent.com/Caratacus/Resource/master/crown/resource.png)
 
------------------------------------------------------------------------------------------------
-##### Thanks :yum:
-
-  该分支前端页面来源自 [EasyWeb](https://gitee.com/whvse/EasyWeb). <br/>
-  [https://gitee.com/whvse/EasyWeb](https://gitee.com/whvse/EasyWeb). <br/>
-
------------------------------------------------------------------------------------------------
-##### License :globe_with_meridians:
-
-   The Crown is released under of the [Mit License](https://mit-license.org). <br/>
-
------------------------------------------------------------------------------------------------
-##### 有事烧钱 :octocat:
-
-<img src="https://images.gitee.com/uploads/images/2019/0723/193332_7850c2e0_620321.jpeg" alt="pay.jpg" width="650" hight="150">
+                                                                                                                         #<img src="
